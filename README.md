@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/97011486-1ece3f00-151d-11eb-8abe-d617857f6a71.gif">
+  <img src="https://user-images.githubusercontent.com/24718475/98287474-2f060580-1f84-11eb-80cf-826568afd536.png">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/97011499-2261c600-151d-11eb-981a-1af54f69905c.gif">
+  <img src="https://user-images.githubusercontent.com/24718475/98286952-7770f380-1f83-11eb-9546-7ad5f47bfb20.gif">
 </p>
 
-<h1>UI Clone - App Picpay/h1>
+<h1>UI Clone - App Picpay</h1>
 <p>Projeto criado com fins didáticos</p>
 
 <h2>Tecnologias</h2>
