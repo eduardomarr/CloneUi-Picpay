@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/98286952-7770f380-1f83-11eb-9546-7ad5f47bfb20.gif">
+  <img src="https://user-images.githubusercontent.com/24718475/98290987-31b72980-1f89-11eb-9443-0627660295fd.gif">
 </p>
 
 <h1>UI Clone - App Picpay</h1>
